@@ -1,11 +1,6 @@
-import java.util.*;
-import java.lang.*;
+*.class
 
-class CompSci
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Welcome!");
-    
-  }
-}
+# Package Files #
+*.jar
+*.war
+*.ear
